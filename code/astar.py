@@ -116,8 +116,8 @@ def sim_astar():
 
     map.plot_map()
 
-    # run djikstras
-    print("Running Djikstras")
+    # run astar
+    print("Running AStar")
     path = astar(map, start_pos, goal_pos)
 
     # plot final path
