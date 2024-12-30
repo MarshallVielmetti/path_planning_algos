@@ -3,7 +3,7 @@ Python implementation of various robotic path planning algorithms + visualizatio
 
 
 ## AStar
-![AStar](images/astar.png)
+![AStar](Images/astar.png)
 
 ## RRT
-![RRT](images/rrt.png)
+![RRT](Images/rrt.png)
